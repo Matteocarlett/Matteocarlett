@@ -4,6 +4,7 @@
   
 - 📫 How to reach me : https://www.linkedin.com/in/matteo-carletti-ab48a5257/
 
+**SKILLS**
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bootstrap,cs,css,discord,html,js,ai,ps,postman,powershell,react,redux,sass,ts,visualstudio,vscode,sql" />
