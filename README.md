@@ -6,13 +6,10 @@
 
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,cs,css,discord,html,js,ai,ps,postman,powershell,react,redux,sass,ts,visualstudio,vscode," />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,cs,css,discord,html,js,ai,ps,postman,powershell,react,redux,sass,ts,visualstudio,vscode,sql" />
   </a>
 </p>
 
-
-![SQL](https://img.shields.io/badge/-SQL-%2300f?style=flat-square&logo=sql&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-%23512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 
 <!---
